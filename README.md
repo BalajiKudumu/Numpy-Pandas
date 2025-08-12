@@ -1,4 +1,4 @@
-## This repo contains data Analysis using Numpy & Python
+## This repo contains data Analysis using Numpy & Pandas (Python)
 
 ## 📬 Contact
 
